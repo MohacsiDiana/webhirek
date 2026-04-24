@@ -1,0 +1,42 @@
+nav{
+    text-align: center;
+    font-size:larger
+}
+
+h1{
+    text-align: center;
+    color: rgb(233, 233, 233);
+    text-decoration: underline;
+}
+
+h2{
+    color:rgb(243, 190, 234);
+}
+
+h3{
+    color: rgb(80, 25, 102);
+}
+
+#keret{
+    background-color: rgb(128, 69, 161);
+    border-radius: 10px;
+    margin-left: 450px;
+    width: 1000px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(243, 190, 234);
+    font-weight: bold;
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+
+#keret3{
+    background-color: rgb(166, 101, 192);
+    border-radius: 10px;
+    margin-left: 400px;
+    width: 800px;
+}
